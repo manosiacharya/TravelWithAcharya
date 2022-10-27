@@ -1,0 +1,33 @@
+.fa {
+  padding: 10px;
+  font-size: 40px;
+  width: 60px;
+  text-decoration: none;
+  margin: 5px 80px;
+  color: white;
+}
+
+.fa:hover {
+  opacity: 0.9;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+}
+
+.fa-instagram {
+  background: hotpink;
+}
+
+.fa-quora {
+  background: #cb2027;
+}
+
+.fa-telegram {
+  background: #007bb5;
+}
+
+.fa-youtube {
+  background: #cb2027;
+}
+
